@@ -35,11 +35,10 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  credits: Credits
-
+  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-   - title: github
+  - title: github
     url: http://github.com/swesdkts
     
 # Postal address (add as many lines as necessary)
