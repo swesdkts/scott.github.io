@@ -7,5 +7,6 @@ alt: image-alt
 project-date: September 2022
 client: Unity
 category: Game Developement
-description: The Nail Files is a 2D puzzle platformer made for the Mini Jame Gam #13. The Nail Files was made in 3 days (28 hrs of total developement).
+description: The Nail Files is a 2D puzzle platformer made for the Mini Jame Gam #13.
+The Nail Files was made in 3 days (28 hrs of total developement).
 ---
